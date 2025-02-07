@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Project specific
-工作日志.md
+worklog.md
